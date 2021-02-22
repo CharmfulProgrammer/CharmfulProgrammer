@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Whazzup!</h1>
+    <h1>Whazzup😆</h1>
     <p>I'm a high school student in India doing programming as a hobby</p>    
     <table>
         <tr>
