@@ -13,14 +13,14 @@
             </td>
         </tr>
     </table>
-    <!-- <br />
+    <br />
     <h3>My skillls</h3>
-    <img src="assets/html.svg" alt="html" style="width:100px;font-size:40px;">
-    <img src="assets/css.svg" alt="css" style="width:100px;font-size:40px;">
-    <img src="assets/js.svg" alt="js" style="width:100px;font-size:40px;">
-    <img src="assets/sass.svg" alt="sass" style="width:100px;font-size:40px;">
-    <img src="assets/vuejs.svg" alt="vuejs" style="width:100px;font-size:40px;">
-    <img src="assets/nodejs.svg" alt="nodejs" style="width:100px;font-size:40px;">
+    <span style="height:50px;"><img src="assets/html.svg" alt="html" style="width:100px;font-size:40px;"></span>
+    <span style="height:50px;"><img src="assets/css.svg" alt="css" style="width:100px;font-size:40px;"></span>
+    <span style="height:50px;"><img src="assets/js.svg" alt="js" style="width:100px;font-size:40px;"></span>
+    <span style="height:50px;"><img src="assets/sass.svg" alt="sass" style="width:100px;font-size:40px;"></span>
+    <span style="height:50px;"><img src="assets/vuejs.svg" alt="vuejs" style="width:100px;font-size:40px;"></span>
+    <span style="height:50px;"><img src="assets/nodejs.svg" alt="nodejs" style="width:100px;font-size:40px;"></span>
     <br /><br />
-    <small>Icon by <a href="https://freeicons.io/profile/3">freeicons</a> on <a href="https://freeicons.io">freeicons.io</a></small>    -->
+    <small>Icon by <a href="https://freeicons.io/profile/3">freeicons</a> on <a href="https://freeicons.io">freeicons.io</a></small>   
 </div>
