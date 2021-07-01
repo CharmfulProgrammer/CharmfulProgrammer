@@ -15,12 +15,12 @@
     </table>
     <br />
     <h3>My skillls</h3>
-    <img src="assets/html.svg" alt="html">
-    <img src="assets/css.svg" alt="css">
-    <img src="assets/js.svg" alt="js">
-    <img src="assets/sass.svg" alt="sass">
-    <img src="assets/vuejs.svg" alt="vuejs">
-    <img src="assets/nodejs.svg" alt="nodejs">
+    <img src="assets/html.svg" alt="html" style="height:100px;">
+    <img src="assets/css.svg" alt="css" style="height:100px;">
+    <img src="assets/js.svg" alt="js" style="height:100px;">
+    <img src="assets/sass.svg" alt="sass" style="height:100px;">
+    <img src="assets/vuejs.svg" alt="vuejs" style="height:100px;">
+    <img src="assets/nodejs.svg" alt="nodejs" style="height:100px;">
     <br /><br />
     <small>Icon by <a href="https://freeicons.io/profile/3">freeicons</a> on <a href="https://freeicons.io">freeicons.io</a></small>   
 </div>
