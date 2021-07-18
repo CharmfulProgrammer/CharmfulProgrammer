@@ -23,4 +23,5 @@
     <img src="https://img.shields.io/static/v1?label=&message=fastify&style=for-the-badge&logo=fastify&color=000" alt="fastify" />
     <img src="https://img.shields.io/static/v1?label=&message=postgres&style=for-the-badge&logo=postgresql&color=d5dbed" alt="postgre sql" />
     <img src="https://img.shields.io/static/v1?label=&message=react&style=for-the-badge&logo=react&color=000" alt="react" />
+    <img src="https://img.shields.io/static/v1?label=&message=vue&style=for-the-badge&logo=vue.js&color=fff" alt="vue.js" />
 </div>
