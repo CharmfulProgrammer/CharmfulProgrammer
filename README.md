@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=postgres&style=for-the-badge&logo=postgresql&color=d5dbed" alt="postgre sql" />
     <img src="https://img.shields.io/static/v1?label=&message=python&style=for-the-badge&logo=python&color=fff" alt="python" />
     <img src="https://img.shields.io/static/v1?label=&message=go&style=for-the-badge&logo=go&color=fff" alt="go" />
-    <h3>Next to master</h3>
+    <h3>Next to learn</h3>
     <img src="https://img.shields.io/static/v1?label=&message=react&style=for-the-badge&logo=react&color=000" alt="react" />
     <img src="https://img.shields.io/static/v1?label=&message=vue&style=for-the-badge&logo=vue.js&color=0d5e08" alt="vue.js" />
     <img src="https://img.shields.io/static/v1?label=&message=next&style=for-the-badge&logo=next.js&color=000" alt="next.js" />
