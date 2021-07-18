@@ -29,4 +29,6 @@
     <img src="https://img.shields.io/static/v1?label=&message=vue&style=for-the-badge&logo=vue.js&color=0d5e08" alt="vue.js" />
     <img src="https://img.shields.io/static/v1?label=&message=next&style=for-the-badge&logo=next.js&color=000" alt="next.js" />
     <img src="https://img.shields.io/static/v1?label=&message=rust&style=for-the-badge&logo=rust&color=orange" alt="rust" />
+    <img src="https://img.shields.io/static/v1?label=&message=three.js&style=for-the-badge&logo=three.js&color=fff" alt="three.js" />
+    <img src="https://img.shields.io/static/v1?label=&message=blender&style=for-the-badge&logo=blender&color=000" alt="vue.js" />
 </div>
