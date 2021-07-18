@@ -14,13 +14,4 @@
         </tr>
     </table>
     <br />
-    <h3>My skillls</h3>
-    <span style="height:50px;"><img src="assets/html.svg" alt="html"></span>
-    <span style="height:50px;"><img src="assets/css.svg" alt="css"></span>
-    <span style="height:50px;"><img src="assets/js.svg" alt="js"></span>
-    <span style="height:50px;"><img src="assets/sass.svg" alt="sass"></span>
-    <span style="height:50px;"><img src="assets/vuejs.svg" alt="vuejs"></span>
-    <span style="height:50px;"><img src="assets/nodejs.svg" alt="nodejs"></span>
-    <br /><br />
-    <small>Icon by <a href="https://freeicons.io/profile/3">freeicons</a> on <a href="https://freeicons.io">freeicons.io</a></small>   
 </div>
