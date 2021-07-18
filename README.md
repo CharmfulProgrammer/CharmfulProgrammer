@@ -27,4 +27,5 @@
     <h3>Next to master</h3>
     <img src="https://img.shields.io/static/v1?label=&message=react&style=for-the-badge&logo=react&color=000" alt="react" />
     <img src="https://img.shields.io/static/v1?label=&message=vue&style=for-the-badge&logo=vue.js&color=0d5e08" alt="vue.js" />
+    <img src="https://img.shields.io/static/v1?label=&message=next&style=for-the-badge&logo=next.js&color=0d5e08" alt="next.js" />
 </div>
