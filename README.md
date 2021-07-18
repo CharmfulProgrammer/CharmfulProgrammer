@@ -19,5 +19,6 @@
     <img src="https://img.shields.io/static/v1?label=&message=css&style=for-the-badge&logo=css3&color=blue" alt="css" />
     <img src="https://img.shields.io/static/v1?label=&message=javascript&style=for-the-badge&logo=javascript&color=000" alt="javascript" />
     <img src="https://img.shields.io/static/v1?label=&message=typescript&style=for-the-badge&logo=typescript&color=fff" alt="typescript" />
-    <img src="https://img.shields.io/static/v1?label=&message=nodejs&style=for-the-badge&logo=node.js&color=000" alt="html" />
+    <img src="https://img.shields.io/static/v1?label=&message=nodejs&style=for-the-badge&logo=node.js&color=000" alt="node.js" />
+    <img src="https://img.shields.io/static/v1?label=&message=fastify&style=for-the-badge&logo=fastify&color=fff" alt="fastify" />
 </div>
