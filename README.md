@@ -23,5 +23,5 @@
     <img src="https://img.shields.io/static/v1?label=&message=fastify&style=for-the-badge&logo=fastify&color=000" alt="fastify" />
     <img src="https://img.shields.io/static/v1?label=&message=postgres&style=for-the-badge&logo=postgresql&color=d5dbed" alt="postgre sql" />
     <img src="https://img.shields.io/static/v1?label=&message=python&style=for-the-badge&logo=python&color=fff" alt="python" />
-    <img src="https://img.shields.io/static/v1?label=&message=go&style=for-the-badge&logo=go&color=0d5e08" alt="go" />
+    <img src="https://img.shields.io/static/v1?label=&message=go&style=for-the-badge&logo=go&color=fff" alt="go" />
 </div>
