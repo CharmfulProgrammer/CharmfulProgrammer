@@ -21,4 +21,5 @@
     <img src="https://img.shields.io/static/v1?label=&message=typescript&style=for-the-badge&logo=typescript&color=fff" alt="typescript" />
     <img src="https://img.shields.io/static/v1?label=&message=nodejs&style=for-the-badge&logo=node.js&color=000" alt="node.js" />
     <img src="https://img.shields.io/static/v1?label=&message=fastify&style=for-the-badge&logo=fastify&color=000" alt="fastify" />
+    <img src="https://img.shields.io/static/v1?label=&message=postgres&style=for-the-badge&logo=postgresql&color=fff" alt="postgre sql" />
 </div>
