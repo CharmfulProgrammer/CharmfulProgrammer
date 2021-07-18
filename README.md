@@ -14,4 +14,7 @@
         </tr>
     </table>
     <br />
+    <h3>My skills</h3>
+    <img src="https://img.shields.io/static/v1?label=&message=html&style=for-the-badge&logo=html&color=fff" alt="html" />
+    <img src="https://img.shields.io/static/v1?label=&message=css&style=for-the-badge&logo=css3&color=fff" alt="css" />
 </div>
